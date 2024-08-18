@@ -1,0 +1,103 @@
+{
+    "pois ga?": {
+        "responses": [
+            "ga ah males",
+            "ajak yang lain dong",
+            "y"
+        ],
+        "default": "I don't understand that."
+    },
+    "kota gas?": {
+        "responses": [
+            "ayo gas, GS 5 menit",
+            "males ah ga sotot",
+            "ajak yang lain dong"
+        ],
+        "default": "I don't understand that."
+    },
+    "kontol kalian": {
+        "responses": [
+            "kontol lu kecil",
+            "ydh lah",
+            "dih baper cuihh"
+        ],
+        "default": "I don't understand that."
+    },
+    "tolol lu": {
+        "responses": [
+            "bacot",
+            "ydh lah",
+            "dih baper cuihh"
+        ],
+        "default": "I don't understand that."
+    },
+    "p": {
+        "responses": [
+            "pa pe pa pe kota kaga",
+            "marah marah mulu lu",
+            "rowrr"
+        ],
+        "default": "I don't understand that."
+    },
+    "nama lu siapa?": {
+        "responses": [
+            "Hi namaku nanda",
+            "kepo lu",
+            "kan lu bisa baca username gue"
+        ],
+        "default": "I don't understand that."
+    },
+    "nanda lagi apa?": {
+        "responses": [
+            "mau tau banget nih?",
+            "apa yaa",
+            "coba tebak lah"
+        ],
+        "default": "I don't understand that."
+    },
+    "rp ga nih?": {
+        "responses": [
+            "gas lah ajak yang lain",
+            "lagi males",
+            "ayo gas mode patem nih"
+        ],
+        "default": "I don't understand that."
+    },
+    "ngewe yu mau ga?": {
+        "responses": [
+            "ga ah masih virgin><",
+            "lagi males",
+            "ayo gas mode patem nih"
+        ],
+        "default": "I don't understand that."
+    },  
+    "nyanyi dong fio": {
+        "responses": [
+            "aku gabisa nyanyi",
+            "lagi males",
+            "ke @music bot aja"
+        ],
+        "default": "I don't understand that."
+    },
+    "Fio lu coin punya berapa?": {
+        "responses": [
+            "kepo lu pea",
+            "coba tebak lah",
+            "gamau sombong tapi aku punya 1 juta W-Coin"
+        ]
+    },
+    "Fio berapa banyak Coin lu": {
+        "responses": [
+            "Berapa yaa",
+            "coba tebak lah",
+            "gamau sombong tapi aku punya 1 juta W-Coin"
+        ]
+    },
+    "Fio siapa owner kamu": {
+        "responses": [
+            "banayak tanya lu",
+            "WAELCHI FAM",
+            "Saya tidak punya owner tetapi saya diprogram oleh W-Fam"
+        ]
+    }
+}
